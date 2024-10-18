@@ -1,0 +1,15 @@
+title: "Skip That Beat!"
+description: >- # this means to ignore newlines until "baseurl:"
+  Demo for the paper "Skip That Beat: Augmenting Meter Tracking Models for Underrepresented Time Signatures" submmited to LAMIR 2024 and ISMIR LBD 2024.
+
+author:
+  name: Giovana Morais
+  email: giovana.vmorais@gmail.com
+
+theme: minima
+markdown: kramdown
+kramdown:
+    parse_block_html: true
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
