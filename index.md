@@ -38,7 +38,12 @@ layout: home
 </div>
 
 
-| [Paper]() | [Demo](https://giovana-morais.github.io/skip_that_beat_demo) | [Code](https://github.com/giovana-morais/skip_that_beat) |
+<table><thead>
+<tr>
+  <td style="text-align:center;"><a href="">Paper</a></td>
+  <td style="text-align:center;"><a href="https://github.com/giovana-morais/skip_that_beat">Code</a></td>
+  </tr></thead>
+</table>
 
 ## Abstract
 <details>
