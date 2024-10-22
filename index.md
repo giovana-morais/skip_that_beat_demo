@@ -58,82 +58,179 @@ Beat and downbeat tracking models are predominantly developed using datasets wit
 
 <div class="row">
   <div class="column">
+  <h3>Original (4/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/0601.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/1115.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/0801.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (2/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/0601_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/1115_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/0801_24.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (3/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/0601_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/1115_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/0801_34.wav" type="audio/wav">
   </audio>
   </div>
 </div>
+<br>
 
 ## GTZAN
 
 <div class="row">
   <div class="column">
+  <h3>Original (4/4)</h3>
   <audio controls class="player">
     <source src="media/audio/pop.00001.wav" type="audio/wav">
   </audio>
-  </div>
-  <div class="column">
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/blues.00009.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/country.00044.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/reggae.00071.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (2/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/pop.00001_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/blues.00009_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/country.00044_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/reggae.00071_24.wav" type="audio/wav">
+  </audio>
+  </div>
+  <div class="column">
+  <h3>Augmented (3/4)</h3>
+  <audio controls class="player">
+    <source src="media/audio/pop.00001_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/blues.00009_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/country.00044_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/reggae.00071_34.wav" type="audio/wav">
   </audio>
   </div>
 </div>
+<br>
 
 ## RWC Jazz
 
 <div class="row">
   <div class="column">
+  <h3>Original (4/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-J050.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J039.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J022.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (2/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-J050_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J039_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J022_24.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (3/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-J050_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J039_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-J022_34.wav" type="audio/wav">
   </audio>
   </div>
 </div>
+<br>
 
 ## RWC Classical
 
 <div class="row">
   <div class="column">
+  <h3>Original (4/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-C008.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C030.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C028.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented 2/4</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-C008_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C030_24.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C028_24.wav" type="audio/wav">
   </audio>
   </div>
   <div class="column">
+  <h3>Augmented (3/4)</h3>
   <audio controls class="player">
-    <source src="media/audio/pop.00001.wav" type="audio/wav">
+    <source src="media/audio/RM-C008_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C030_34.wav" type="audio/wav">
+  </audio>
+  <audio controls class="player">
+    <source src="media/audio/RM-C028_34.wav" type="audio/wav">
   </audio>
   </div>
 </div>
 
+<br>
 ## Training Data Distribution
 ![Training Data Distribution](media/image/training_data_distribution.png)
 
